@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881059352957",
+    "firebase_url": "https://crm-mil.firebaseio.com",
+    "project_id": "crm-mil",
+    "storage_bucket": "crm-mil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881059352957:android:cb386bbf961ea2ec6bfc14",
+        "android_client_info": {
+          "package_name": "com.codehackpay.crm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881059352957-frk7o16roeeb9duuo13tlpahbbjiq444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-r38DqGUdaLjVEu_hIEZ1brXmcrS784"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881059352957-frk7o16roeeb9duuo13tlpahbbjiq444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
