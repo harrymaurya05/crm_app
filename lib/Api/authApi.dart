@@ -11,9 +11,9 @@ const String IS_LOGIN = "SECURE_NOTE_KEY";
 class ApiHelper {
   //String baseUrl = "http://192.168.1.5:80/suitecrm/Api"; // for local
   String baseUrl =
-      "https://sit1mayberryinv.milnp.net/mayberry-migration/Api"; // prod
+      "https://stg1mayberrycrm.milnp.net/Api/index.php"; // prod
   //String client_id = "c02198ed-1583-b950-b918-5f17ebadd31e"; // local
-  String client_id = "c4a60654-9393-f676-95b2-5f292caee3d0"; // prod
+  String client_id = "39211f3e-27e4-40d5-6d77-6006a7824afa"; // prod
   FlutterSecureStorage storage = new FlutterSecureStorage();
 
   /* Demo Api call */
@@ -150,6 +150,4 @@ class ApiHelper {
       throw Exception('Failed to load album');
     }
   }
-
-  
 }
